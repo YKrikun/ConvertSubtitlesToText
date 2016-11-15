@@ -1,0 +1,13 @@
+c:\users\ykrikun\documents\visual studio 2013\Projects\ConvertSubtitlesToText\ConvertSubtitlesToText\bin\Debug\ConvertSubtitlesToText.exe.config
+c:\users\ykrikun\documents\visual studio 2013\Projects\ConvertSubtitlesToText\ConvertSubtitlesToText\bin\Debug\ConvertSubtitlesToText.exe
+c:\users\ykrikun\documents\visual studio 2013\Projects\ConvertSubtitlesToText\ConvertSubtitlesToText\bin\Debug\ConvertSubtitlesToText.pdb
+c:\users\ykrikun\documents\visual studio 2013\Projects\ConvertSubtitlesToText\ConvertSubtitlesToText\obj\Debug\MainWindow.baml
+c:\users\ykrikun\documents\visual studio 2013\Projects\ConvertSubtitlesToText\ConvertSubtitlesToText\obj\Debug\MainWindow.g.cs
+c:\users\ykrikun\documents\visual studio 2013\Projects\ConvertSubtitlesToText\ConvertSubtitlesToText\obj\Debug\App.g.cs
+c:\users\ykrikun\documents\visual studio 2013\Projects\ConvertSubtitlesToText\ConvertSubtitlesToText\obj\Debug\ConvertSubtitlesToText_MarkupCompile.cache
+c:\users\ykrikun\documents\visual studio 2013\Projects\ConvertSubtitlesToText\ConvertSubtitlesToText\obj\Debug\ConvertSubtitlesToText.g.resources
+c:\users\ykrikun\documents\visual studio 2013\Projects\ConvertSubtitlesToText\ConvertSubtitlesToText\obj\Debug\ConvertSubtitlesToText.Properties.Resources.resources
+c:\users\ykrikun\documents\visual studio 2013\Projects\ConvertSubtitlesToText\ConvertSubtitlesToText\obj\Debug\ConvertSubtitlesToText.csproj.GenerateResource.Cache
+c:\users\ykrikun\documents\visual studio 2013\Projects\ConvertSubtitlesToText\ConvertSubtitlesToText\obj\Debug\ConvertSubtitlesToText.exe
+c:\users\ykrikun\documents\visual studio 2013\Projects\ConvertSubtitlesToText\ConvertSubtitlesToText\obj\Debug\ConvertSubtitlesToText.pdb
+c:\users\ykrikun\documents\visual studio 2013\Projects\ConvertSubtitlesToText\ConvertSubtitlesToText\obj\Debug\ConvertSubtitlesToText_MarkupCompile.lref
