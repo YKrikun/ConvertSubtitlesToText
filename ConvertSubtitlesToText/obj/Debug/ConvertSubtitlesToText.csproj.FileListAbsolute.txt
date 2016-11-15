@@ -11,3 +11,6 @@ c:\users\ykrikun\documents\visual studio 2013\Projects\ConvertSubtitlesToText\Co
 c:\users\ykrikun\documents\visual studio 2013\Projects\ConvertSubtitlesToText\ConvertSubtitlesToText\obj\Debug\ConvertSubtitlesToText.exe
 c:\users\ykrikun\documents\visual studio 2013\Projects\ConvertSubtitlesToText\ConvertSubtitlesToText\obj\Debug\ConvertSubtitlesToText.pdb
 c:\users\ykrikun\documents\visual studio 2013\Projects\ConvertSubtitlesToText\ConvertSubtitlesToText\obj\Debug\ConvertSubtitlesToText_MarkupCompile.lref
+E:\Git\ConvertSubtitlesToText\ConvertSubtitlesToText\bin\Debug\ConvertSubtitlesToText.exe.config
+E:\Git\ConvertSubtitlesToText\ConvertSubtitlesToText\obj\Debug\ConvertSubtitlesToText.exe
+E:\Git\ConvertSubtitlesToText\ConvertSubtitlesToText\obj\Debug\ConvertSubtitlesToText.pdb
