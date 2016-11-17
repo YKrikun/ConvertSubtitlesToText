@@ -24,3 +24,6 @@ E:\Git\ConvertSubtitlesToText\ConvertSubtitlesToText\obj\Debug\MainWindow.baml
 E:\Git\ConvertSubtitlesToText\ConvertSubtitlesToText\obj\Debug\ConvertSubtitlesToText.g.resources
 E:\Git\ConvertSubtitlesToText\ConvertSubtitlesToText\obj\Debug\ConvertSubtitlesToText.Properties.Resources.resources
 E:\Git\ConvertSubtitlesToText\ConvertSubtitlesToText\obj\Debug\ConvertSubtitlesToText.csproj.GenerateResource.Cache
+E:\Git\ConvertSubtitlesToText\ConvertSubtitlesToText\obj\Debug\ConvertSubtitlesToText.csprojResolveAssemblyReference.cache
+E:\Git\ConvertSubtitlesToText\ConvertSubtitlesToText\bin\Debug\Microsoft.Practices.Prism.dll
+E:\Git\ConvertSubtitlesToText\ConvertSubtitlesToText\bin\Debug\Microsoft.Practices.Prism.xml

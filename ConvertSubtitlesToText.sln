@@ -6,6 +6,9 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvertSubtitlesToText", "ConvertSubtitlesToText\ConvertSubtitlesToText.csproj", "{E5A801BE-76B5-4F9B-A585-5A67BCFC29BF}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2032FF36-125F-4D31-A718-579072E1389B}"
+	ProjectSection(SolutionItems) = preProject
+		Prism\2.0.20525.0\Microsoft.Practices.Prism.dll = Prism\2.0.20525.0\Microsoft.Practices.Prism.dll
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
