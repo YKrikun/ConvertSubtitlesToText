@@ -11,3 +11,19 @@ c:\users\ykrikun\documents\visual studio 2013\Projects\ConvertSubtitlesToText\Co
 c:\users\ykrikun\documents\visual studio 2013\Projects\ConvertSubtitlesToText\ConvertSubtitlesToText\obj\Debug\ConvertSubtitlesToText.exe
 c:\users\ykrikun\documents\visual studio 2013\Projects\ConvertSubtitlesToText\ConvertSubtitlesToText\obj\Debug\ConvertSubtitlesToText.pdb
 c:\users\ykrikun\documents\visual studio 2013\Projects\ConvertSubtitlesToText\ConvertSubtitlesToText\obj\Debug\ConvertSubtitlesToText_MarkupCompile.lref
+E:\Git\ConvertSubtitlesToText\ConvertSubtitlesToText\bin\Debug\ConvertSubtitlesToText.exe.config
+E:\Git\ConvertSubtitlesToText\ConvertSubtitlesToText\obj\Debug\ConvertSubtitlesToText.exe
+E:\Git\ConvertSubtitlesToText\ConvertSubtitlesToText\obj\Debug\ConvertSubtitlesToText.pdb
+E:\Git\ConvertSubtitlesToText\ConvertSubtitlesToText\bin\Debug\ConvertSubtitlesToText.exe
+E:\Git\ConvertSubtitlesToText\ConvertSubtitlesToText\bin\Debug\ConvertSubtitlesToText.pdb
+E:\Git\ConvertSubtitlesToText\ConvertSubtitlesToText\obj\Debug\MainWindow.g.cs
+E:\Git\ConvertSubtitlesToText\ConvertSubtitlesToText\obj\Debug\App.g.cs
+E:\Git\ConvertSubtitlesToText\ConvertSubtitlesToText\obj\Debug\ConvertSubtitlesToText_MarkupCompile.cache
+E:\Git\ConvertSubtitlesToText\ConvertSubtitlesToText\obj\Debug\ConvertSubtitlesToText_MarkupCompile.lref
+E:\Git\ConvertSubtitlesToText\ConvertSubtitlesToText\obj\Debug\MainWindow.baml
+E:\Git\ConvertSubtitlesToText\ConvertSubtitlesToText\obj\Debug\ConvertSubtitlesToText.g.resources
+E:\Git\ConvertSubtitlesToText\ConvertSubtitlesToText\obj\Debug\ConvertSubtitlesToText.Properties.Resources.resources
+E:\Git\ConvertSubtitlesToText\ConvertSubtitlesToText\obj\Debug\ConvertSubtitlesToText.csproj.GenerateResource.Cache
+E:\Git\ConvertSubtitlesToText\ConvertSubtitlesToText\obj\Debug\ConvertSubtitlesToText.csprojResolveAssemblyReference.cache
+E:\Git\ConvertSubtitlesToText\ConvertSubtitlesToText\bin\Debug\Microsoft.Practices.Prism.dll
+E:\Git\ConvertSubtitlesToText\ConvertSubtitlesToText\bin\Debug\Microsoft.Practices.Prism.xml

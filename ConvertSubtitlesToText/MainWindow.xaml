@@ -4,11 +4,11 @@
         xmlns:local="clr-namespace:ConvertSubtitlesToText"
         WindowStartupLocation="CenterScreen"
         Title="Конвертер субтитров" Height="533" Width="742" UseLayoutRounding="False" BorderBrush="#FF807BF9">
-    
-    <Window.CommandBindings>
-        <CommandBinding Command="Open" Executed="OpenCommand_Executed"></CommandBinding>
-    </Window.CommandBindings>
-    
+
+    <!--<Window.Resources>
+        <local:MainWindowViewModel x:Key="MainWindowViewModel"/>
+    </Window.Resources>-->
+
     <Grid Background="#FFD4D4CE" Margin="0,0,0,-8">
         <Grid.RowDefinitions>
             <RowDefinition Height="35"></RowDefinition>
@@ -20,25 +20,35 @@
         <Grid.ColumnDefinitions>
             <ColumnDefinition></ColumnDefinition>
         </Grid.ColumnDefinitions>
-        <ToolBarTray Grid.Row ="0">
-            <ToolBar>
-                <Button Command="Open">Открыть</Button>
-                <Button  Name ="ButtonProccess" Content="Обработать"  Click="ButtonProccess_Click" Margin="5,5,5,5" VerticalAlignment="Top" Width="75"/>
-            </ToolBar>
-        </ToolBarTray>
-        <TextBox Grid.Row ="1" Name ="FileName" Height="21" HorizontalAlignment="Stretch" VerticalAlignment="Top" Margin="5,5,5,5"/>
+
+        <Menu Margin="0,5,0,5">
+            <MenuItem Header="Файл">
+                <MenuItem Header="Открыть" Command="{Binding OpenFileCommand}"></MenuItem>
+                <MenuItem Command="Save"></MenuItem>
+            </MenuItem>
+            <MenuItem Header="Редактирование">
+                <MenuItem Command="Cut"></MenuItem>
+                <MenuItem Command="Copy"></MenuItem>
+                <MenuItem Command="Paste"></MenuItem>
+            </MenuItem>
+        </Menu>
+
+        <DockPanel LastChildFill="True" Grid.Row="1" Margin="5,0,5,0" VerticalAlignment="Top" HorizontalAlignment="Stretch">
+            <Button  Content="Обработать" Command="{Binding ProccessFileCommand}" HorizontalAlignment="Right" Margin="5,5,5,5" Width="75"/>
+            <TextBox Text ="{Binding Path=SubtitlesFileName}" HorizontalAlignment ="Stretch" Margin="5,5,5,5"/>
+        </DockPanel>
         <RichTextBox Grid.Row ="2" Grid.Column="0" Name ="SubtitlesContent" HorizontalScrollBarVisibility="Visible" VerticalScrollBarVisibility="Visible"  HorizontalAlignment="Stretch" Margin="0,0,0,10" VerticalAlignment="Stretch">
             <FlowDocument>
                 <Paragraph>
-                    <Run Text=""/>
+                    <Run Text="{Binding Path=DocumentText}"/>
                 </Paragraph>
             </FlowDocument>
         </RichTextBox>
         <GridSplitter  Grid.Row="3" Margin="5,5,5,5" HorizontalAlignment="Stretch" Height="4" Background="#aaa"/>
-        <RichTextBox Grid.Row ="4" Grid.Column="0" Name ="ProccessContent" HorizontalScrollBarVisibility="Visible" VerticalScrollBarVisibility="Visible"  HorizontalAlignment="Stretch" Margin="0,0,0,10" VerticalAlignment="Stretch">
+        <RichTextBox Grid.Row ="4" Grid.Column="0" HorizontalScrollBarVisibility="Visible" VerticalScrollBarVisibility="Visible"  HorizontalAlignment="Stretch" Margin="0,0,0,10" VerticalAlignment="Stretch">
             <FlowDocument>
                 <Paragraph>
-                    <Run Text=""/>
+                    <Run Text="{Binding Path=ProccessText}"/>
                 </Paragraph>
             </FlowDocument>
         </RichTextBox>

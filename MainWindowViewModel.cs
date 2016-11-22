@@ -4,13 +4,13 @@ using System.ComponentModel;
 namespace ConvertSubtitlesToText
 {
 
-    public class MainWindowViewModel : INotifyPropertyChanged
+    public class ProccessSubtitlesCommand
     {
+        public static RoutedCommand ProccessSubtitles { get; set; }
 
-        public DelegateCommand ProccessTextCommand { get; set; }
-
-        protected MainWindowViewModel()
+        static ProccessSubtitlesCommand()
         {
+            ProccessSubtitles = new RoutedCommand("Proccess", typeof(MainWindow));
         }
     }
 
